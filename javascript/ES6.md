@@ -2,7 +2,7 @@
 
 **ES6 (ECMAScript 2015)** is the 6th version of JavaScript, released in 2015. It introduced many modern features that made JavaScript easier to write, read, and maintain.
 
-Before ES6, JavaScript code was often longer and more difficult to manage. ES6 added new syntax and features that are now used in almost every React, Node.js, and modern JavaScript application.
+Before ES6, JavaScript code was often longer and more difficult to manage. ES6 added new syntax and features that are now used in almost every React, Node.js, and modern JavaScript application. 
 
 ---
 
